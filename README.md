@@ -1,6 +1,8 @@
 # animated_menu_ui
 
-A new Flutter application.
+An animated menu UI example.
+
+<img src="https://github.com/BatuhanAydonerDev/animated_menu_ui/blob/master/app_gif.gif?raw=true" alt="Animated Menu UI" width="300"/>
 
 ## Getting Started
 
