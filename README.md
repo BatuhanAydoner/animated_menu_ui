@@ -1,4 +1,4 @@
-# animated_menu_ui
+# Animated Menu UI
 
 An animated menu UI example.
 
